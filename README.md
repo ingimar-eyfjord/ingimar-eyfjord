@@ -13,9 +13,10 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 ### Markup languages:
 * HTML5
 * CSS3
-* Programing languages:
+* Sass
 
-### Javascript
+### Programing languages:
+* Javascript
 * TypeScript
 * PHP
 
