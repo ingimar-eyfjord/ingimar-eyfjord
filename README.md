@@ -8,7 +8,7 @@ I'm a professional Multimedia Designer with a focus on Front-end Development. Al
 
 These days I'm heading up a new IT development team as part of my responsibilites for Dialogue One, the place where I work. This involves setting up an production enviroment and hiring other developers to join our team.
 
-I'm very confident developing with these technologies and tools:
+## I'm very confident developing with these technologies and tools:
 
 ### Markup languages:
 * HTML5
