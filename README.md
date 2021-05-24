@@ -24,10 +24,12 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 * MySQL
 * Postgres
 * Mongoose
-* Libraries:
+* Redis
+
+### Libraries:
 * React.js
 * Jquery
-* Redis
+* Others
 
 ### Frameworks:
 * Material UI
