@@ -10,21 +10,12 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 
 ## I'm very confident developing with these technologies and tools:
 
-### Markup languages:
-* HTML5
-* CSS3
-* Sass
-
-### Programing languages:
-* Javascript
-* TypeScript
-* PHP
-
-### Database languages:
-* MySQL
-* Postgres
-* Mongoose
-* Redis
+| ### Markup languages  | ### Programing languages | ### Databases |
+| ------------- | ------------- | ------------- |
+| * HTML5  | * Javascript  | * MySQL 
+| * CSS3 | * TypeScript | * Postgres
+| * Sass | * PHP | * Mongoose
+|  | | * Redis 
 
 ### Libraries:
 * React.js
