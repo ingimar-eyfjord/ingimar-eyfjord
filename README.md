@@ -34,7 +34,7 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 | ------------- | ------------- |
 | SCRUM | Jira software | 
 | Agile | Trello        |
-| SCRUM | |
-| Goal-Directed design | |
-| Sprint            | |
+| SCRUM | Monday.com |
+| Goal-Directed design | Kanban |
+| Sprint | |
 
