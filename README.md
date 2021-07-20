@@ -30,12 +30,11 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 | Others        |                 |                       |               | Gitlab           |
 
 ### Project management
-| Keywords|
-| ------------- |
-| Jira software |
-| Trello |
-| SCRUM |
-| Agile development |
-| Goal-Directed design |
-| Sprint            |
+| Keywords      | Tools         |
+| ------------- | ------------- |
+| SCRUM | Jira software | 
+| Agile | Trello        |
+| SCRUM | |
+| Goal-Directed design | |
+| Sprint            | |
 
