@@ -21,13 +21,13 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 
 ### Programming tools
 
-| Runtime environments  | Api's                 | Libraries    | Frameworks    | Hosting platforms|
-| -------------         | -------------         |------------- | ------------- | -------------    | 
-| Node.js               | Microsoft Graph API   |React.js      | Material UI   | Heroku           |
-| NPM (packages)        | Github                |Jquery        | Fluent UI     | Firebase         |
-|                       | My own                |Others        | Bootstrap     | Github           |
-|                       |                       |              | Materialize   | Bitbucket        |
-|                       |                       |              | Others        | Gitlab           |
+| Frameworks    | Runtime environments  | Api's                 | Libraries     | Hosting platforms|
+| ------------- | -------------         | -------------         |-------------  | -------------    | 
+| Material UI   | Node.js               | Microsoft Graph API   |React.js       | Heroku           |
+| Fluent UI     | NPM (packages)        | Github                |Jquery         | Firebase         |
+| Bootstrap     |                       | My own                |Others         | Github           |
+| Materialize   |                       |                       |               | Bitbucket        |
+| Others        |                       |                       |               | Gitlab           |
 
 ### Project management
 | Keywords|
