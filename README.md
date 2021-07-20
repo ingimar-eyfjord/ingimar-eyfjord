@@ -21,7 +21,7 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 
 ### Programming tools
 
-| Frameworks    | Runtime environments  | Api's                 | Libraries     | Hosting platforms|
+| Frameworks    | Runtime environments  | Api's                 | Libraries     | Platforms|
 | ------------- | -------------         | -------------         |-------------  | -------------    | 
 | Material UI   | Node.js               | Microsoft Graph API   |React.js       | Heroku           |
 | Fluent UI     | NPM (packages)        | Github                |Jquery         | Firebase         |
