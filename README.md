@@ -10,34 +10,20 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 
 ## I'm very confident developing with these technologies and tools:
 
-| Markup languages  | Programing languages      | Databases     | Libraries     | Frameworks    |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| HTML5         | Javascript    | MySQL         | React.js      | Material UI   | Heroku        |
-| CSS3          | TypeScript    | Postgres      | Jquery        | Fluent UI     | Firebase      |
-| Sass          | PHP           |  Mongoose     | Others        | Bootstrap     | Github        |
-|               |               | Redis         |               | Others        | Bitbucket     |
-|               |               |               |               |               | Gitlab        | 
+| Markup languages  | Programing languages      | Databases     | Libraries     | Frameworks    | Hosting platforms|
+| -------------     | -------------             | ------------- | ------------- | ------------- | ------------- | 
+| HTML5             | Javascript                | MySQL         | React.js      | Material UI   | Heroku        |
+| CSS3              | TypeScript                | Postgres      | Jquery        | Fluent UI     | Firebase      |
+| Sass              | PHP                       |  Mongoose     | Others        | Bootstrap     | Github        |
+|                   |                           | Redis         |               | Others        | Bitbucket     |
+|                   |                           |               |               |               | Gitlab        |
 
-### Runtime environments:
-* Node.js
-* NPM (packages)
+| Runtime environments  | Api's                 | Project management keywords|
+| -------------         | -------------         | ------------- |
+| Node.js               | Microsoft Graph API   | Jira software         |
+| NPM (packages)        | Github                | Trello      |
+|                       | My own                | SCRUM     |
+|                       |                       | Agile development         |
+|                       |                       | Goal-Directed design            |
+|                       |                       | Sprint            |
 
-### Hosting platforms:
-* Heroku
-* Firebase
-* Github
-* Bitbucket
-* Gitlab
-
-### Api's I've worked extensively with
-* Microsoft Graph API
-* Github
-* My own
-
-### Project management keywords
-* Jira software
-* Trello
-* SCRUM
-* Agile development
-* Goal-Directed design
-* Sprint
