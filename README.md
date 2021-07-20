@@ -4,7 +4,7 @@
 
 > I'm currently undergoing my bachelor's studies in Web Development in Copenhagen. I have a passion for everything related to programming.
 
-I'm a professional Multimedia Designer with a focus on Front-end Development. Although these days, I get to indulge myself in the backends due to my current enrollment.
+I have finished a professional degree in Multimedia Design with a focus on Front-end Development, but have been working with Full-stack development for one year and a half.
 
 Currently, I'm heading up a new IT development team as part of my responsibilities for Dialogue One, where I work. This involves setting up a production environment and hiring other developers to join our team.
 
