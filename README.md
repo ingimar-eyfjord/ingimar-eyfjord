@@ -18,12 +18,21 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 |                   |                           | Redis         |               | Others        | Bitbucket     |
 |                   |                           |               |               |               | Gitlab        |
 
-| Runtime environments  | Api's                 | Project management keywords|
-| -------------         | -------------         | ------------- |
-| Node.js               | Microsoft Graph API   | Jira software         |
-| NPM (packages)        | Github                | Trello      |
-|                       | My own                | SCRUM     |
-|                       |                       | Agile development         |
-|                       |                       | Goal-Directed design            |
-|                       |                       | Sprint            |
+| Runtime environments  | Api's                 |
+| -------------         | -------------         |
+| Node.js               | Microsoft Graph API   |
+| NPM (packages)        | Github                |
+|                       | My own                |
+|                       |                       |
+|                       |                       |
+|                       |                       |
+
+| Project management keywords|
+| ------------- |
+| Jira software |
+| Trello |
+| SCRUM |
+| Agile development |
+| Goal-Directed design |
+| Sprint            |
 
