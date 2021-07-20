@@ -18,7 +18,6 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 | CSS3              | TypeScript            | Postgres      |
 | Sass              | PHP                   |  Mongoose     |
 |                   |                       | Redis         |
-|                   |                       |               |
 
 ### Programming tools
 
