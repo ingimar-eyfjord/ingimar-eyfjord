@@ -59,3 +59,4 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 * SCRUM
 * Agile development
 * Goal-Directed design
+* Sprint
