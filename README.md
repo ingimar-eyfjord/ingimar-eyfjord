@@ -10,22 +10,23 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 
 ## I'm very confident developing with these technologies and tools:
 
-| Markup languages  | Programing languages      | Databases     | Libraries     | Frameworks    | Hosting platforms|
-| -------------     | -------------             | ------------- | ------------- | ------------- | ------------- | 
-| HTML5             | Javascript                | MySQL         | React.js      | Material UI   | Heroku        |
-| CSS3              | TypeScript                | Postgres      | Jquery        | Fluent UI     | Firebase      |
-| Sass              | PHP                       |  Mongoose     | Others        | Bootstrap     | Github        |
-|                   |                           | Redis         |               | Others        | Bitbucket     |
-|                   |                           |               |               |               | Gitlab        |
+| Markup languages  | Programing languages  | Databases     | Libraries     | Frameworks    | Hosting platforms|
+| -------------     | -------------         | ------------- | ------------- | ------------- | ------------- | 
+| HTML5             | Javascript            | MySQL         | React.js      | Material UI   | Heroku        |
+| CSS3              | TypeScript            | Postgres      | Jquery        | Fluent UI     | Firebase      |
+| Sass              | PHP                   |  Mongoose     | Others        | Bootstrap     | Github        |
+|                   |                       | Redis         |               | Others        | Bitbucket     |
+|                   |                       |               |               |               | Gitlab        |
 
-| Runtime environments  | Api's                 |
-| -------------         | -------------         |
-| Node.js               | Microsoft Graph API   |
-| NPM (packages)        | Github                |
-|                       | My own                |
-|                       |                       |
-|                       |                       |
-|                       |                       |
+
+
+| Runtime environments  | Api's                 | Libraries    | Frameworks    | Hosting platforms|
+| -------------         | -------------         |------------- | ------------- | ------------- | 
+| Node.js               | Microsoft Graph API   |React.js      | Material UI   | Heroku        |
+| NPM (packages)        | Github                |Jquery        | Fluent UI     | Firebase      |
+|                       | My own                |Others        | Bootstrap     | Github        |
+|                       |                       |              | Others        | Bitbucket     |
+|                       |                       |              |               | Gitlab        |
 
 | Project management keywords|
 | ------------- |
