@@ -12,7 +12,7 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 
 ### Full stack skills
 
-| Markup languages  | Programing languages  | Databases     | Server-side  |
+| Markup & style    | Programing languages  | Databases     | Server-side  |
 | -------------     | -------------         | ------------- | -------------|
 | HTML5             | Javascript            | MySQL         | Apache2      |
 | CSS3              | TypeScript            | Postgres      | Linux        |
