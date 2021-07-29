@@ -12,22 +12,22 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 
 ### Full stack skills
 
-| Markup languages  | Programing languages  | Databases     |
-| -------------     | -------------         | ------------- |
-| HTML5             | Javascript            | MySQL         |
-| CSS3              | TypeScript            | Postgres      |
-| Sass              | PHP                   |  Mongoose     |
-|                   |                       | Redis         |
+| Markup languages  | Programing languages  | Databases     | Server-side  |
+| -------------     | -------------         | ------------- | -------------|
+| HTML5             | Javascript            | MySQL         | Apache2      |
+| CSS3              | TypeScript            | Postgres      | Linux        |
+| Sass              | PHP                   | Mongoose      | Ubuntu       |
+|                   |                       | Redis         |              |
 
 ### Programming tools
 
 | Frameworks    | Environments    | Api's                 | Libraries     | Platforms        |
 | ------------- | -------------   | -------------         |-------------  | -------------    | 
 | Material UI   | Node.js         | Microsoft Graph API   |React.js       | Heroku           |
-| Fluent UI     | NPM (packages)  | Github                |Jquery         | Firebase         |
+| Fluent UI     | NPM             | Github                |Jquery         | Firebase         |
 | Bootstrap     | XAMPP           | My own                |Others         | Github           |
 | Materialize   | Ngrok           |                       |               | Bitbucket        |
-| Others        |                 |                       |               | Gitlab           |
+| Others        | PM2             |                       |               | Gitlab           |
 
 ### Project management
 | Keywords      | Tools         |
