@@ -17,7 +17,8 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 | HTML5             | Javascript            | MySQL         | Apache2      |
 | CSS3              | TypeScript            | Postgres      | Linux        |
 | Sass              | PHP                   | Mongoose      | Ubuntu       |
-|                   |                       | Redis         |              |
+|                   | Python                | Redis         | Alpine       |
+|                   |                       |               | Nginx        |
 
 ### Programming tools
 
@@ -27,7 +28,8 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 | Fluent UI     | NPM             | Github                |Jquery         | Firebase         |
 | Bootstrap     | XAMPP           | My own                |Others         | Github           |
 | Materialize   | Ngrok           |                       |               | Bitbucket        |
-| Others        | PM2             |                       |               | Gitlab           |
+| Django        | PM2             |                       |               | Gitlab           |
+| Others        | PIP             |                       |               |                  |
 
 ### Project management
 | Keywords      | Tools         |
