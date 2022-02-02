@@ -26,8 +26,8 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 | ------------- | -------------   | -------------         |-------------  | -------------    | 
 | Material UI   | Node.js         | Microsoft Graph API   |React.js       | Heroku           |
 | Fluent UI     | NPM             | Github                |Jquery         | Firebase         |
-| Bootstrap     | XAMPP           | My own                |Others         | Github           |
-| Materialize   | Ngrok           |                       |               | Bitbucket        |
+| Bootstrap     | XAMPP           | Rest API's            |Others         | Github           |
+| Materialize   | Ngrok           | My own                |               | Bitbucket        |
 | Django        | PM2             |                       |               | Gitlab           |
 | Others        | PIP             |                       |               |                  |
 
@@ -36,7 +36,7 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 | ------------- | ------------- |
 | SCRUM | Jira software | 
 | Agile | Trello        |
-| SCRUM | Monday.com |
-| Goal-Directed design | Kanban |
-| Sprint | |
+| Sprint | Confluence |
+| Goal-Directed design | Monday.com |
+| | Kanban |
 
