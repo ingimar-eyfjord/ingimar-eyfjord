@@ -25,11 +25,11 @@ Currently, I'm heading up a new IT development team as part of my responsibiliti
 | Frameworks    | Environments    | Api's                 | Libraries     | Platforms        |
 | ------------- | -------------   | -------------         |-------------  | -------------    | 
 | Material UI   | Node.js         | Microsoft Graph API   |React.js       | Heroku           |
-| Fluent UI     | NPM             | Github                |Jquery         | Firebase         |
-| Bootstrap     | XAMPP           | Rest API's            |Others         | Github           |
-| Materialize   | Ngrok           | My own                |               | Bitbucket        |
-| Django        | PM2             |                       |               | Gitlab           |
-| Others        | PIP             |                       |               |                  |
+| Fluent UI     | NPM             | MSAL                  |Jquery         | Firebase         |
+| Bootstrap     | XAMPP           | Github                |Others         | Github           |
+| Materialize   | Ngrok           | Rest API's            |               | Bitbucket        |
+| Django        | PM2             | My own                |               | Gitlab           |
+| Others        | PIP             | Others                |               |                  |
 
 ### Project management
 | Keywords      | Tools         |
