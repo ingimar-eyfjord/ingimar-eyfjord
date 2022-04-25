@@ -11,7 +11,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-[![GitHub ingimar-eyfjord](https://img.shields.io/github/followers/ingimar-eyfjord?style=social)
+[[![GitHub ingimar-eyfjord](https://img.shields.io/github/followers/ingimar-eyfjord?style=social)
 
 [Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/)
 
