@@ -4,13 +4,9 @@
 - 💼 Senior consultant - IT Development - [Dialogue One A/s](https://dialogueone.com/)
 - 🎓 Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)
 - 🎓 AP Multimedia Design - [KEA](https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner) 
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/ingimareyfjord">
+-  <a href="https://www.linkedin.com/in/ingimareyfjord">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
-
+  </a>
 
 [[![GitHub ingimar-eyfjord](https://img.shields.io/github/followers/ingimar-eyfjord?style=social)
 
