@@ -11,10 +11,10 @@
   </a>&nbsp;&nbsp;
 </p>
 
+
 [[![GitHub ingimar-eyfjord](https://img.shields.io/github/followers/ingimar-eyfjord?style=social)
 
-[Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/)
-
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
 I have finished a professional degree in Multimedia Design with a focus on Front-end Development, but have been working with Full-stack development for over two years.
