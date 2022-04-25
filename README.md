@@ -8,11 +8,11 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
-[![GitHub ingimar-eyfjord](https://img.shields.io/github/followers/ingimar-eyfjord?label=follow&style=social)
+[![GitHub ingimar-eyfjord](https://img.shields.io/github/followers/ingimar-eyfjord?style=social)
 
 
 
-/github/followers/:user?label=Follow 
+
 
 I have finished a professional degree in Multimedia Design with a focus on Front-end Development, but have been working with Full-stack development for over two years.
 
