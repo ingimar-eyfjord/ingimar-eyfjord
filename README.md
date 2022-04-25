@@ -5,7 +5,7 @@
 - 🎓 Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)
 - 🎓 AP Multimedia Design - [KEA](https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner) 
 
-
+[![GitHub ingimar-eyfjord](https://img.shields.io/github/followers/ingimar-eyfjord?style=social)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/)
 
@@ -13,15 +13,7 @@
   <a href="https://www.linkedin.com/in/ingimareyfjord">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a>
-  [![GitHub ingimar-eyfjord](https://img.shields.io/github/followers/ingimar-eyfjord?style=social)
-  </a>
 </p>
-
-
-
-
-
 
 I have finished a professional degree in Multimedia Design with a focus on Front-end Development, but have been working with Full-stack development for over two years.
 
