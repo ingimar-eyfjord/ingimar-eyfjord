@@ -1,8 +1,9 @@
 # Hi and welcome to my GitHub 
-<div align="right">
+
+<div dir='rtl'>
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/)
-  
-</div>
+  </div>
+
 ### My name is Ingimar. 
 
 > I'm currently undergoing my bachelor's studies in Web Development in Copenhagen. I have a passion for everything related to programming.
