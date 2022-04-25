@@ -1,10 +1,18 @@
-# Hi and welcome to my GitHub 
+# Hi I'm Ingimar. 
+> I'm a Web Developer and Multimedia designer based in Copenhagen and I have a passion for everything related to programming.
 
-### My name is Ingimar. 
+💼 Senior consultant - IT Development - [Dialogue One A/s](https://dialogueone.com/)
+🎓 Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)
+🎓 AP Multimedia Design - [KEA](https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner) 
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/)
 
-> I'm a Web Developer and Multimedia designer based in Copenhagen and I have a passion for everything related to programming.
+
+[![GitHub ingimar-eyfjord](https://img.shields.io/github/followers/ingimar-eyfjord?label=follow&style=social)
+
+
+
+/github/followers/:user?label=Follow 
 
 I have finished a professional degree in Multimedia Design with a focus on Front-end Development, but have been working with Full-stack development for over two years.
 
