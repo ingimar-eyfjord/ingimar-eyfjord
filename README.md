@@ -9,10 +9,14 @@
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/)
 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
 
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white })
 
 
 
