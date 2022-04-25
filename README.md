@@ -1,5 +1,5 @@
 # Hi and welcome to my GitHub 
-
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?ingimar-eyfjord=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
 ### My name is Ingimar. 
 
 > I'm currently undergoing my bachelor's studies in Web Development in Copenhagen. I have a passion for everything related to programming.
