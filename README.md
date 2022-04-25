@@ -1,5 +1,5 @@
 # Hi I'm Ingimar. 
-> I'm a Web Developer and Multimedia designer based in Copenhagen and I have a passion for everything related to programming.
+> I'm a Web Developer and Multimedia designer based in Copenhagen and I have a passion for everything related to programming. I have finished a professional degree in Multimedia Design with a focus on Front-end Development, but have been working with Full-stack development for over two years.
 
 - 💼 Senior consultant - IT Development - [Dialogue One A/s](https://dialogueone.com/)
 - 🎓 Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)
@@ -11,7 +11,7 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
-I have finished a professional degree in Multimedia Design with a focus on Front-end Development, but have been working with Full-stack development for over two years.
+
 
 ## I'm very confident developing with these technologies and tools:
 
