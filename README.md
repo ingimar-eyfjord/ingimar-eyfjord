@@ -1,4 +1,5 @@
 <img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=ingimar-eyfjord&show_icons=true&theme=radical" /> 
+
 # Ingimar Eyfjörð Smárason. 
 > Full-stack Web Developer and Multimedia designer based in Copenhagen.
 <a href="https://www.linkedin.com/in/ingimareyfjord">
