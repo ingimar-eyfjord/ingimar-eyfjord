@@ -17,7 +17,8 @@
 ### Work experience
 **💼 Senior consultant - IT Development - [Dialogue One A/s](https://dialogueone.com/)**<br>
 Full time<br> 
-> Jan 2022 - present
+> Jan 2022 - present<br>
+
 **💼 Web developer - [Dialogue One A/s](https://dialogueone.com/)**<br>
 Freelance<br>
 > Dec 2019 - Jan 2022
