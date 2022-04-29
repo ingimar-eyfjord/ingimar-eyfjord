@@ -1,12 +1,31 @@
-# Hi I'm Ingimar. 
-> I'm a Web Developer and Multimedia designer based in Copenhagen and I have a passion for everything related to programming. I have finished a professional degree in Multimedia Design with a focus on Front-end Development, but have been working with Full-stack development for over two years.
+# Ingimar Eyfjörð Smárason. 
+> Full stack Web Developer and Multimedia designer based in Copenhagen.
 
-- 💼 Senior consultant - IT Development - [Dialogue One A/s](https://dialogueone.com/)
-- 🎓 Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)
-- 🎓 AP Multimedia Design - [KEA](https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner) 
 <a href="https://www.linkedin.com/in/ingimareyfjord">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+</a>
+<a href="mailto:ingimareys93@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+### Keywords
+* Information Systems.
+* Project Managment.
+* UX/UI design.
+* PWA.
+
+### Work experience
+- 💼 Senior consultant - IT Development - [Dialogue One A/s](https://dialogueone.com/)
+Full time
+> Jan 2022 - present
+- 💼 Web developer - [Dialogue One A/s](https://dialogueone.com/)
+Freelance
+> Dec 2019 - Jan 2022
+
+### Education
+- 🎓 Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)
+- 🎓 AP Multimedia Design - [KEA](https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner) 
+
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/)
 
