@@ -15,10 +15,10 @@
 * PWA.
 
 ### Work experience
-- 💼 Senior consultant - IT Development - [Dialogue One A/s](https://dialogueone.com/)
+- 💼 Senior consultant - IT Development - [Dialogue One A/s](https://dialogueone.com/)<br>
 Full time
 > Jan 2022 - present
-- 💼 Web developer - [Dialogue One A/s](https://dialogueone.com/)
+- 💼 Web developer - [Dialogue One A/s](https://dialogueone.com/)<br>
 Freelance
 > Dec 2019 - Jan 2022
 
