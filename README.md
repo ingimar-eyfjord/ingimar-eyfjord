@@ -15,16 +15,16 @@
 * PWA.
 
 ### Work experience
-- **💼 Senior consultant - IT Development - [Dialogue One A/s](https://dialogueone.com/)**<br>
+**💼 Senior consultant - IT Development - [Dialogue One A/s](https://dialogueone.com/)**<br>
 Full time<br> 
 > Jan 2022 - present
-- **💼 Web developer - [Dialogue One A/s](https://dialogueone.com/)**<br>
+**💼 Web developer - [Dialogue One A/s](https://dialogueone.com/)**<br>
 Freelance<br>
 > Dec 2019 - Jan 2022
 
 ### Education
-- 🎓 Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)
-- 🎓 AP Multimedia Design - [KEA](https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner) 
+🎓 **Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)**
+🎓 **AP Multimedia Design - [KEA](https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner)**
 
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/)
