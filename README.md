@@ -1,13 +1,14 @@
 # Ingimar Eyfjörð Smárason. 
 > Full-stack Web Developer and Multimedia designer based in Copenhagen.
-
+<img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=ingimar-eyfjord&show_icons=true&theme=radical" /> 
 <a href="https://www.linkedin.com/in/ingimareyfjord">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ingimareys93@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+ 
+ 
 ## Summary of qualifications
 
 - Project management
@@ -38,10 +39,7 @@ Freelance<br>
 
 
 ## Tech stacks
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=ingimar-eyfjord&show_icons=true&theme=radical" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingimar-eyfjord&theme=radical&layout=compact" />
-</div>
 
 ### Full-stack skills
 
