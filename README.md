@@ -13,15 +13,17 @@
 ## Summary of qualifications
 
 - Project management
-    - Coordinate internal resources and third parties/vendors for the execution of multiple projects, ensuring that all projects are delivered on time, within the scope and budget. Assisting in the definition of product requirements, involving all relevant stakeholders and ensuring technical feasibility and resource availability and allocation, develop a detailed project plan to monitor and track progress.
+    - Coordinate internal resources and third parties/vendors for the execution of multiple projects, ensuring that all projects are delivered on time, within the scope and budget. Assisting in the definition of product requirements, involving all relevant stakeholders and ensuring technical feasibility, resource availability and allocation, develop a detailed project plan to monitor and track progress.
 
 - Full-stack Web Developer.
     - Setup of development environments for web development to ensure CI/CD, using methods and tools in web development to plan and develop applications based on specific development demands, assessing and justifying choices for a suitable system and tech stacks to secure data and application persistence. Using theory-based methods of the domain to develop and assess user experiences adapted to relevant target groups.
 
 ### Keywords
-* Information Systems.
+* Information Systems & Technologies.
 * Project Management.
 * UX/UI design.
+* CI/CD pipelines.
+* Server managment.
 * Applied Artificial Intelligence
 
 ### Work experience
@@ -37,8 +39,6 @@ Freelance<br>
 🎓 **Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)**<br>
 🎓 **AP Multimedia Design - [KEA](https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner)**
 
-
-
 ## Tech stacks
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingimar-eyfjord&theme=radical&layout=compact" />
 
@@ -49,8 +49,11 @@ Freelance<br>
 | HTML5             | Javascript            | MySQL         | Apache2      |
 | CSS3              | TypeScript            | Postgres      | Linux        |
 | Sass              | PHP                   | Mongoose      | Ubuntu       |
-|                   | Python                | Redis         | Alpine       |
+| JSX               | Python                | Redis         | Alpine       |
 |                   |                       |               | Nginx        |
+
+
+
 
 ### Programming tools
 
