@@ -27,12 +27,13 @@ Freelance<br>
 🎓 **Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)**<br>
 🎓 **AP Multimedia Design - [KEA](https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner)**
 
+
+
+## Tech stacks
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=ingimar-eyfjord&show_icons=true&theme=radical" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingimar-eyfjord&theme=radical&layout=compact" />
 </div>
-
-## I'm very confident developing with these technologies and tools:
 
 ### Full stack skills
 
