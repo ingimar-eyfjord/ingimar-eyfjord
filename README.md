@@ -1,5 +1,5 @@
 # Ingimar Eyfjörð Smárason. 
-> Full stack Web Developer and Multimedia designer based in Copenhagen.
+> Full-stack Web Developer and Multimedia designer based in Copenhagen.
 
 <a href="https://www.linkedin.com/in/ingimareyfjord">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -8,11 +8,19 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+## Summary of qualifications
+
+- Project management
+    - Coordinate internal resources and third parties/vendors for the execution of multiple projects, ensuring that all projects are delivered on time, within the scope and budget. Assisting in the definition of product requirements, involving all relevant stakeholders and ensuring technical feasibility and resource availability and allocation, develop a detailed project plan to monitor and track progress.
+
+- Full-stack Web Developer.
+    - Setup of development environments for web development to ensure CI/CD, using methods and tools in web development to plan and develop applications based on specific development demands, assessing and justifying choices for a suitable system and tech stacks to secure data and application persistence. Using theory-based methods of the domain to develop and assess user experiences adapted to relevant target groups.
+
 ### Keywords
 * Information Systems.
-* Project Managment.
+* Project Management.
 * UX/UI design.
-* PWA.
+* Applied Artificial Intelligence
 
 ### Work experience
 **💼 Senior consultant - IT Development - [Dialogue One A/s](https://dialogueone.com/)**<br>
@@ -35,7 +43,7 @@ Freelance<br>
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingimar-eyfjord&theme=radical&layout=compact" />
 </div>
 
-### Full stack skills
+### Full-stack skills
 
 | Markup & style    | Programing languages  | Databases     | Server-side  |
 | -------------     | -------------         | ------------- | -------------|
