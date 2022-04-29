@@ -17,10 +17,10 @@
 ### Work experience
 - **💼 Senior consultant - IT Development - [Dialogue One A/s](https://dialogueone.com/)**<br>
 Full time<br> 
--- Jan 2022 - present
+> Jan 2022 - present
 - **💼 Web developer - [Dialogue One A/s](https://dialogueone.com/)**<br>
 Freelance<br>
--- Dec 2019 - Jan 2022
+> Dec 2019 - Jan 2022
 
 ### Education
 - 🎓 Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)
