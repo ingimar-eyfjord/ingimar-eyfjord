@@ -1,6 +1,6 @@
+<img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=ingimar-eyfjord&show_icons=true&theme=radical" /> 
 # Ingimar Eyfjörð Smárason. 
 > Full-stack Web Developer and Multimedia designer based in Copenhagen.
-<img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=ingimar-eyfjord&show_icons=true&theme=radical" /> 
 <a href="https://www.linkedin.com/in/ingimareyfjord">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
