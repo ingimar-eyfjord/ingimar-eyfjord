@@ -24,11 +24,16 @@ Freelance<br>
 > Dec 2019 - Jan 2022
 
 ### Education
-🎓 **Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)**
+🎓 **Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)**<br>
 🎓 **AP Multimedia Design - [KEA](https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner)**
 
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/)
+
+<div style="display: flex; flex-direction: row;">
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/) 
+ <img class="img" src="https://github-contribution-stats.vercel.app/api/?username=ingimar-eyfjord)](https://github.com/LordDashMe/github-contribution-stats/" />
+</div>
+
 
 ## I'm very confident developing with these technologies and tools:
 
