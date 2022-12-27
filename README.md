@@ -8,15 +8,16 @@
 <a href="mailto:ingimareys93@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
- 
- 
-## Summary of qualifications
 
+## Medium Arcicles
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingimareys93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingimareys93/0" alt="Recent Article 0"> 
+
+## Hard Skills
 - Project management
-    - Coordinate internal resources and third parties/vendors for the execution of multiple projects, ensuring that all projects are delivered on time, within the scope and budget. Assisting in the definition of product requirements, involving all relevant stakeholders and ensuring technical feasibility, resource availability and allocation, develop a detailed project plan to monitor and track progress.
+- Full-stack Web Developer
+- Information Technologies
+- Data Science
 
-- Full-stack Web Developer.
-    - Setup of development environments for web development to ensure CI/CD, using methods and tools in web development to plan and develop applications based on specific development demands, assessing and justifying choices for a suitable system and tech stacks to secure data and application persistence. Using theory-based methods of the domain to develop and assess user experiences adapted to relevant target groups.
 
 ### Keywords
 * Web Development
@@ -37,17 +38,15 @@ Freelance<br>
 > Dec 2019 - Jan 2022
 
 ### Education
-🎓 **Bachelor's Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)**<br>
+📚 **MSc Information Studies - [AAU](https://www.en.aau.dk/education/master/information-studies)**<br>
+🎓 **Bachelor Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)**<br>
 🎓 **AP Multimedia Design - [KEA](https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner)**
 
 ## Tech stacks
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingimar-eyfjord&theme=radical&layout=compact" />
- 
- 
- ### Languages
-      
-    
-  <div style="display: flex; align-items: flex-start;">
+
+### Languages     
+ <div style="display: flex; align-items: flex-start;">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
