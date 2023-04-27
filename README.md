@@ -3,18 +3,23 @@
 # Ingimar Eyfjörð Smárason.
 
 > Full-stack Web Developer and Multimedia designer based in Copenhagen.
-> <a href="https://www.linkedin.com/in/ingimareyfjord">
 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-</a>
 <a href="mailto:ingimareys93@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ingimareyfjord">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ## Medium Arcicles
 
+<div>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingimareys93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingimareys93/0" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingimareys93/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingimareys93/1" alt="Recent Article 1">
+
+</div>
 
 ## Hard Skills
 
