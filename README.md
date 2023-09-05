@@ -53,8 +53,8 @@ Freelance<br>
 
 ### Education
 
-📚 **MSc Information Studies - [AAU](https://www.en.aau.dk/education/master/information-studies)**<br>
-🎓 **Bachelor Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)**<br>
+🎓 **MSc Information Studies - [AAU](https://www.en.aau.dk/education/master/information-studies)**<br>
+🎓 **BA Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)**<br>
 🎓 **AP Multimedia Design - [KEA](https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner)**
 
 ## Tech stacks
