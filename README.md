@@ -2,7 +2,7 @@
 
 # Ingimar Eyfjörð Smárason.
 
-> Full-stack Web Developer and Multimedia designer based in Copenhagen.
+> Full-stack Solution Architect, Web Developer and Multimedia Designer.
 
 <a href="mailto:ingimareys93@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
