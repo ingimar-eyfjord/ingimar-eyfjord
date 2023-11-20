@@ -14,9 +14,8 @@
 
 ## Medium Arcicles
 
-<div>
-<a href="https://medium.com/@ingimareys93">
-</div>
+<a href="https://medium.com/@ingimareys93">Medium Articles
+</a>
 
 ## Hard Skills
 
