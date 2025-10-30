@@ -1,4 +1,4 @@
-<img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=ingimar-eyfjord&show_icons=true&theme=radical" />
+
 
 # Ingimar Eyfjörð Smárason.
 
@@ -8,6 +8,7 @@ Now I’m looking to bring these strengths back to product engineering in a full
 
 <img width="468" height="167" alt="image" src="https://github.com/user-attachments/assets/8ef8c20b-4ed7-41df-b4a9-5b98662308e0" />
 
+<img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=ingimar-eyfjord&show_icons=true&theme=radical" />
 
 <a href="mailto:ingimareys93@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
