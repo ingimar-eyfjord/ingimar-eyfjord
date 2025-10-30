@@ -5,6 +5,7 @@
 I’m a people-centered full-stack developer with 5+ years of experience designing and building secure, scalable solutions that people actually want to use. Colleagues know me for an optimistic, collaborative style, uniting stakeholders and for turning complex requirements into clear relatable ideas and shipped solutions. My professional career began in full-stack, architecting and developing end-to-end internal web applications. I then expanded into data science in a highly regulated pharma setting where I applied data integrity and governance at scale and delivered analytical solutions and Quality KPIs for senior management.
 
 Now I’m looking to bring these strengths back to product engineering in a full-stack/solutions role where I can lead delivery end-to-end; pairing my product mindset, data-driven solutions and Human Centered Design principles with hands-on engineering to modernize legacy workflows or build new platforms with measurable impact.
+
 <img width="468" height="167" alt="image" src="https://github.com/user-attachments/assets/8ef8c20b-4ed7-41df-b4a9-5b98662308e0" />
 
 
