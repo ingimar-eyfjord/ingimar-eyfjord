@@ -18,39 +18,6 @@ I was recently part of the **Novo Nordisk layoffs**, so I’m available immediat
 * Exploring **DX tooling**, agents for development workflows, and infrastructure automation
 * Maintaining a small portfolio of internal tools for Dialogue One A/S
 
-## 📄 **Writing & Knowledge Sharing**
-
-* Articles on engineering, software practice & design thinking
-  📘 **Medium:** [https://medium.com/@ingimareys93](https://medium.com/@ingimareys93)
-  
----
-
-## 👔 **Experience**
-
-### **QA Data Scientist — Novo Nordisk** (2024–2025)
-
-Governed pipelines, metadata-driven transformations, medallion architecture, data integrity controls, and enterprise dashboards for senior management. Contributed to global audit trail review and data flow mapping initiatives.
-
-### **Lead Full-Stack Developer — Dialogue One A/S** (2020–2024)
-
-Architected and delivered internal platforms, managed infrastructure, CI/CD, identity integration, security baseline, and mentored junior developers.
-
-### **Web Developer — Aalborg University** (2022)
-
-Django-based expert search engine; multi-source ingestion pipelines; Solr ranking.
-
-## 📫 **Get in Touch**
-
-**Email:** [ingimar@ingimar.dk](mailto:ingimar@ingimar.dk)
-**LinkedIn:** [https://www.linkedin.com/in/ingimar-eyfjord](https://www.linkedin.com/in/ingimar-eyfjord)
-**Website:** [https://ingimar.dk](https://ingimar.dk)
-**GitHub:** [https://github.com/ingimar-eyfjord](https://github.com/ingimar-eyfjord)
-
-### Education
-
-🎓 **MSc Information Studies - [AAU](https://www.en.aau.dk/education/master/information-studies)**<br>
-🎓 **BA Web Development - [KEA](https://kea.dk/uddannelser/top-up/webudvikling)**<br>
-🎓 **AP Multimedia Design - [KEA](https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner)**
 
 ## Tech stacks
 
