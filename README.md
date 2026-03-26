@@ -18,83 +18,26 @@ I was recently part of the **Novo Nordisk layoffs**, so I’m available immediat
 * Exploring **DX tooling**, agents for development workflows, and infrastructure automation
 * Maintaining a small portfolio of internal tools for Dialogue One A/S
 
----
-
-## 📌 **Featured Projects (Selected)**
-
-*(Replace these with links to your repos as appropriate — I can help rewrite each one.)*
-
-### **Dialogue Time — Full-Stack Time Tracking, Scheduling & Billing Platform**
-
-**React • Node.js/Express • SQL • MS Graph SSO • Docker • Nginx**
-End-to-end architecture + development for a production system used by 100+ users. Includes automatic identity provisioning, role-based access, public APIs for Emply HR, and containerized deployment.
-
----
-
-### **Expert Search Engine (AAU)**
-
-**Django • PostgreSQL • Apache Solr • HTMX + Tailwind**
-Search platform surfacing researcher expertise with multi-source ingestion pipelines and ranking algorithms.
-
----
-
-### **Governed Quality Data Pipelines (Novo Nordisk)**
-
-**Python • Medallion Architecture • Power BI • ServiceNow Analytics**
-Validated data transformations, audit-ready lineage, and enterprise KPIs supporting QA oversight across 9 global manufacturing sites.
-
----
-
-## 🧠 **Core Strengths**
-
-| Area                             | Overview                                                                                            |
-| -------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **Full-Stack Development**       | React, Next.js, Node/Express, Django, Flask, PHP/Laravel; API-first, modular architectures          |
-| **Backend Engineering**          | SQL schema design, ORMs (Sequelize, Django ORM, Prisma), caching, authentication, integrations      |
-| **Cloud & DevOps**               | Docker, Docker Compose, IaC concepts (Terraform), CI/CD (GitHub Actions), Linux ops, Nginx/Apache   |
-| **Data Engineering & Analytics** | Python pipelines, medallion/lakehouse patterns, Solr/Elasticsearch, KPIs, quality data governance   |
-| **Product & UX**                 | Human-Centered Design, stakeholder discovery, workflow redesign, component systems, UI architecture |
-| **Security & Compliance**        | Identity (Azure AD, MS Graph), GxP/GAMP5, audit trail review, data integrity, endpoint security     |
-
----
-
 ## 📄 **Writing & Knowledge Sharing**
 
 * Articles on engineering, software practice & design thinking
   📘 **Medium:** [https://medium.com/@ingimareys93](https://medium.com/@ingimareys93)
-
+  
 ---
 
 ## 👔 **Experience**
 
-*(Condensed GitHub-version — full details in CV)*
-
 ### **QA Data Scientist — Novo Nordisk** (2024–2025)
 
 Governed pipelines, metadata-driven transformations, medallion architecture, data integrity controls, and enterprise dashboards for senior management. Contributed to global audit trail review and data flow mapping initiatives.
-*(Full CV reference: page 1–2)* 
 
 ### **Lead Full-Stack Developer — Dialogue One A/S** (2020–2024)
 
 Architected and delivered internal platforms, managed infrastructure, CI/CD, identity integration, security baseline, and mentored junior developers.
-*(Full CV reference: page 1–2)* 
 
 ### **Web Developer — Aalborg University** (2022)
 
 Django-based expert search engine; multi-source ingestion pipelines; Solr ranking.
-*(Full CV reference: page 2)* 
-
----
-
-## 🧩 **How I Work**
-
-* Collaborative, optimistic, and people-centered
-* Strong documentation discipline
-* Product mindset: discovery → architecture → build → refine
-* Clean architectures, DRY code, and scalable patterns
-* Human-centered UX thinking baked into engineering decisions
-
----
 
 ## 📫 **Get in Touch**
 
