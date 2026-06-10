@@ -1,25 +1,30 @@
-# **Ingimar Eyfjörð Smárason**
+# Hey, I'm Ingimar
 
-### **Full-Stack Developer • Data-Heavy Systems • DevOps & Cloud • Human-Centered Engineering**
+### Full-Stack Developer | Applied AI & Data Engineer | Copenhagen
 
-I build secure, scalable and well-designed software with a focus on end-to-end product thinking. For the past 5+ years, I’ve delivered full-stack platforms, governed data pipelines, cloud-based workflows and internal developer tooling across startups and large enterprise environments.
+I build production software end-to-end, and over the last 18 months I rebuilt how I work around AI agents: spec-and-plan-first, per-project agent libraries, custom Claude Code skills, MCP servers, and review gates that keep a human in the loop. My job is figuring out what the AI should do; the system I build around that decision is what ships.
 
-My background spans **React, Node.js/Express, Python/Django, PHP/Laravel, SQL/NoSQL, Dockerized deployments, IaC**, and **data governance in regulated industries**. I’m collaborative by nature, enjoy reviewing code, shaping architecture, and turning complex requirements into clear and maintainable systems.
+The proof: I solo-built [Guide Connect](https://guideconnect.is), a B2B SaaS for the Icelandic travel market, shipping 1,400+ commits in five months with the entire financial layer in-house (invoicing, credit notes, VAT compliance, reconciliation, 7-year retention). The data discipline behind it comes from integrity work across 500+ regulated systems at Novo Nordisk.
 
-I was recently part of the **Novo Nordisk layoffs**, so I’m available immediately for roles in **full-stack, backend, platform engineering, or solutions architecture**.
+## What I'm building right now
 
----
+- **An AI allocation loop for a client's data platform.** Postgres warehouse (Medallion: raw, staging, reporting), five connected planning streams, and an AI that proposes staffing assignments. Every human override requires a structured rationale, so corrections accumulate as training data instead of vanishing. Operated through a custom MCP server, so a non-engineer runs it through Claude.
+- **[Panel Todo](https://panel-todo.com)**, a VS Code extension with its own MCP server, live on the Marketplace. Task management your AI assistant can read and write.
+- **Retrieval and evals**, the current learning track: a RAG-powered "ask me anything" for ingimar.dk.
 
-## 🚀 **What I’m Doing Now**
+## The repo to look at first
 
-* Co-Founding an App
-* Expanding cloud/IaC expertise (AWS, Terraform, serverless patterns)
-* Building full-stack apps with **React + Django / Node**
-* Exploring **DX tooling**, agents for development workflows, and infrastructure automation
-* Maintaining a small portfolio of internal tools for Dialogue One A/S
+**[agents-and-workflows](https://github.com/ingimar-eyfjord/agents-and-workflows)**: my open-source AI orchestration framework. 10 specialized agents, 16 workflow skills, model tiering (Opus/Sonnet/Haiku by task), and an autonomous dev loop that picks tickets, implements, tests, and commits behind human review gates. It never pushes without approval. Battle-tested on a real SaaS, not a demo repo.
 
+## How I work
 
-## Tech stacks
+- Spec first, plan second, code third. The agents do the typing, I do the deciding.
+- AI proposes, humans approve. Every system I design keeps that order.
+- If I do something twice, it becomes a skill. If an agent gets it wrong twice, that becomes a rule.
+- Boring, auditable data layers underneath ambitious AI on top.
 
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingimar-eyfjord&theme=radical&layout=compact" />
+## Status
 
+Open to full-time AI / product engineering roles in Copenhagen (available June 2026), employment or contract via my CVR. Fastest way to reach me: [ingimar@ingimar.dk](mailto:ingimar@ingimar.dk) | [ingimar.dk](https://www.ingimar.dk) | [LinkedIn](https://www.linkedin.com/in/ingimareyfjord)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingimar-eyfjord&theme=radical&layout=compact" />
