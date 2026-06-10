@@ -26,7 +26,3 @@ The proof: I solo-built [Guide Connect](https://guideconnect.is), a B2B SaaS for
 ## Status
 
 Open to full-time AI / product engineering roles in Copenhagen (available June 2026), employment or contract via my CVR. Fastest way to reach me: [ingimar@ingimar.dk](mailto:ingimar@ingimar.dk) | [ingimar.dk](https://www.ingimar.dk) | [LinkedIn](https://www.linkedin.com/in/ingimareyfjord)
-
-
-
-[![Ingimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingimar-eyfjord)](https://github.com/anuraghazra/github-readme-stats)
