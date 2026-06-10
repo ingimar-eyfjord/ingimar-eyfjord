@@ -14,7 +14,7 @@ The proof: I solo-built [Guide Connect](https://guideconnect.is), a B2B SaaS for
 
 ## The repo to look at first
 
-**[agents-and-workflows](https://github.com/ingimar-eyfjord/agents-and-workflows)**: my open-source AI orchestration framework. 10 specialized agents, 16 workflow skills, model tiering (Opus/Sonnet/Haiku by task), and an autonomous dev loop that picks tickets, implements, tests, and commits behind human review gates. It never pushes without approval. Battle-tested on a real SaaS, not a demo repo.
+**[claude-code-agent-workflows](https://github.com/ingimar-eyfjord/claude-code-agent-workflows)**: my open-source AI orchestration framework. 10 specialized agents, 16 workflow skills, model tiering (Opus/Sonnet/Haiku by task), and an autonomous dev loop that picks tickets, implements, tests, and commits behind human review gates. It never pushes without approval. Battle-tested on a real SaaS, not a demo repo.
 
 ## How I work
 
